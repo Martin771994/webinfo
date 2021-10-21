@@ -1,0 +1,121 @@
+body {
+    margin: auto;
+    padding: auto;
+}
+
+.menu ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: #005B8F;
+    text-align: center;
+    padding-bottom: 10px;
+    line-height: botton;
+}
+
+.menu li {
+    display: inline-block;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+
+.menu li a {
+    padding: 5px 5px;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 10px; 
+    margin-left: 60px;
+}
+
+.menu ul li:hover{
+    background-color: #005B8F;
+    color: white;
+    text-decoration: underline;
+}
+
+
+.formulaire {
+    text-align: center;
+    background-color: #005B8F;
+    margin-top: -23px;
+    padding: 20px;
+}
+
+.storage{
+    display: flex;
+    justify-content: center;
+    text-indent: 50px;
+    
+    
+    
+    
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+.lienf{
+    text-decoration: none;
+    color: white;
+    
+}
+
+#name{
+    color: red;
+}
+
+
+button {
+    margin-top: 10px;
+    color: black;
+    background-color: white;
+    border: none;
+}
+
+.map{
+    text-align: center;
+}
+
+.espace {
+    padding-right: 1em;
+}
+
+.menufooter ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: #005B8F;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: 50px;
+   
+}
+
+.menufooter li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+   
+}
+.menufooter li a {
+    padding: 0px 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 10px; 
+}
+
+.menufooter ul li:hover{
+    color: white;
+    text-decoration: underline;
+}

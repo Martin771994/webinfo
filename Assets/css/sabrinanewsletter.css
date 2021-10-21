@@ -1,0 +1,127 @@
+body {
+    margin: auto;
+    padding: auto;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 1px;
+   
+      
+}  
+.menu ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: #005B8F;
+    text-align: center;
+    padding-bottom: 10px;
+    line-height: botton;
+}
+
+.menu li {
+    display: inline-block;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+
+.menu li a {
+    padding: 5px 5px;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 10px; 
+    margin-left: 60px;
+}
+
+.menu ul li:hover{
+    background-color: #005B8F;
+    color: white;
+    text-decoration: underline;
+}
+
+#titrenewsletter{
+    background-image: url(../img/Newsletter2.jpg);
+    background-size: cover;
+    padding: 200px;
+    color:white;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 20px;
+    height: 30px;
+    width: 863px;
+    margin-top: 8px;
+}
+
+.titre-formulaire{
+    font-family: sans-serif;
+    font-size: 19px;
+    letter-spacing: 1px;
+    margin-top: 2%;
+    margin-left: 20%;
+    color: gray;
+}
+
+.control-control {
+    font-family: sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+    width: 400px;
+    border: none;
+    border-bottom: 2px solid gray;
+    outline: none;
+    margin-bottom: 16px;
+    margin-top: 2%;
+    margin-left: 30%;
+    color: black; 
+}
+
+form .contact-form-submit {
+    font-family: sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: gray;
+    border-color: transparent;
+    height: 50px;
+    margin-top: 2%;
+    margin-left: 30%;
+}
+
+form .contact-form-submit:hover {
+    background-color: #005B8F;;
+    color: white;
+}
+
+.menufooter ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: #005B8F;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: 50px;
+   
+}
+
+.menufooter li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+   
+}
+.menufooter li a {
+    padding: 0px 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 10px; 
+}
+
+.menufooter ul li:hover{
+    color: white;
+    text-decoration: underline;
+}
